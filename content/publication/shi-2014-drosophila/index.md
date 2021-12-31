@@ -14,6 +14,9 @@ authors:
 - Jin Sun
 - Xiaobai Zhang
 - Cizhong Jiang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2014-01-01'
