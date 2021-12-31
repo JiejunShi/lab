@@ -9,6 +9,9 @@ authors:
   - Qing Zhou
   - Yanhua Du
   - Cizhong Jiang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 publication: "*PLoS One*"
 abstract: PEpiD
 draft: false
