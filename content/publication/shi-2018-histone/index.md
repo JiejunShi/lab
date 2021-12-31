@@ -10,6 +10,9 @@ authors:
 - Xiaobing Shi
 - Wei Li
 - Hong Wen
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2018-01-01'
