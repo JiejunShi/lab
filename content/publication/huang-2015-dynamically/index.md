@@ -17,6 +17,10 @@ authors:
 - Guang Shi
 - Zhibin Wang
 - ' others'
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2015-01-01'
