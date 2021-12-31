@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - admin
+  - Jiejun Shi
   - Jian Hu
   - Qing Zhou
   - Yanhua Du
