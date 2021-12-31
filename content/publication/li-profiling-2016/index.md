@@ -17,6 +17,9 @@ authors:
 - Hua Gu
 - Cizhong Jiang
 - ' others'
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2016-01-01'
