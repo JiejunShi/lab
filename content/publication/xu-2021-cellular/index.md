@@ -16,6 +16,9 @@ authors:
 - Jean-Pierre Issa
 - Jianzhong Su
 - Wei Li
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2021-01-01'
