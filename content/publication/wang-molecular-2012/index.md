@@ -6,16 +6,19 @@ title: Molecular Characterization and Expression Pattern of Gene IGFBP-5 in the 
 subtitle: ''
 summary: ''
 authors:
-- XJ Wang
-- JJ Shi
-- JF Yang
-- Y Liang
-- YF Wang
+- Xiaojing Wang
+- Jiejun Shi
+- Jiaofu Yang
+- Yan Liang
+- Yanfeng Wang
 - ML Wu
 - SY Li
 - XD Guo
 - ZG Wang
 - DJ Liu
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2012-01-01'
