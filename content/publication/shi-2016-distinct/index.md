@@ -13,6 +13,9 @@ authors:
 - Fenyong Sun
 - Chao Ou
 - Cizhong Jiang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2016-01-01'
