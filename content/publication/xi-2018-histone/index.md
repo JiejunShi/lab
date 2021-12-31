@@ -17,6 +17,12 @@ authors:
 - Anusha Nagari
 - Venkat S Malladi
 - ' others'
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2018-01-01'
