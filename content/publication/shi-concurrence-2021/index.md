@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The concurrence of DNA methylation and demethylation is associated with transcription
-  regulation
+title: The concurrence of DNA methylation and demethylation is associated with transcription regulation
 subtitle: ''
 summary: ''
 authors:
@@ -38,23 +37,7 @@ projects: []
 publishDate: '2021-12-31T14:11:51.641029Z'
 publication_types:
 - '2'
-abstract: Abstract The mammalian DNA methylome is formed by two antagonizing processes,
-  methylation by DNA methyltransferases (DNMT) and demethylation by ten-eleven translocation
-  (TET) dioxygenases. Although the dynamics of either methylation or demethylation
-  have been intensively studied in the past decade, the direct effects of their interaction
-  on gene expression remain elusive. Here, we quantify the concurrence of DNA methylation
-  and demethylation by the percentage of unmethylated CpGs within a partially methylated
-  read from bisulfite sequencing. After verifying ‘methylation concurrence’ by its
-  strong association with the co-localization of DNMT and TET enzymes, we observe
-  that methylation concurrence is strongly correlated with gene expression. Notably,
-  elevated methylation concurrence in tumors is associated with the repression of
-  40~60% of tumor suppressor genes, which cannot be explained by promoter hypermethylation
-  alone. Furthermore, methylation concurrence can be used to stratify large undermethylated
-  regions with negligible differences in average methylation into two subgroups with
-  distinct chromatin accessibility and gene regulation patterns. Together, methylation
-  concurrence represents a unique methylation metric important for transcription regulation
-  and is distinct from conventional metrics, such as average methylation and methylation
-  variation.
+abstract: ''
 publication: '*Nature Communications*'
 doi: 10.1038/s41467-021-25521-7
 links:
