@@ -29,8 +29,9 @@ design:
   columns: '1'
 ---
 
-# Postdoc in bioinformatics
+## Postdoc in bioinformatics
 developing algorithms
 
-# Postdoc in biology
+## Postdoc in biology
 perform next-gen sequencing
+
