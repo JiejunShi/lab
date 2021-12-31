@@ -16,6 +16,9 @@ authors:
 - Yongkun Wei
 - Hyemin Lee
 - ' others'
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2018-01-01'
