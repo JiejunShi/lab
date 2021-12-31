@@ -12,8 +12,8 @@ design:
   background:
     image: ""
     color: rgba(0, 0, 0, 0)
-    gradient_start: "#a5abd5"
-    gradient_end: rgba(0, 0, 0, 0)
+    gradient_start: rgba(0, 0, 0, 0)
+    gradient_end: "#a4acdd"
 ---
 <br>
 
