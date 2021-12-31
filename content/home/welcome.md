@@ -11,7 +11,9 @@ design:
   css_class: null
   background:
     image: ""
-    color: "#a5abd5"
+    color: rgba(0, 0, 0, 0)
+    gradient_start: "#a5abd5"
+    gradient_end: rgba(0, 0, 0, 0)
 ---
 <br>
 
