@@ -7,15 +7,15 @@ subtitle: ''
 summary: ''
 authors:
 - Xu Zheng
-- Jiao-fu YANG
-- Xiao-jing WANG
+- Jiaofu YANG
+- Xiaojing WANG
 - Yan Liang
-- Man-lin WU
-- Jie-jun SHI
+- Manlin WU
+- Jiejun SHI
 - Tao Zhang
 - QIN Yin
-- Shu-yu LI
-- Xi-yan HAO
+- Shuyu LI
+- Xiyan HAO
 - ' others'
 tags: []
 categories: []
