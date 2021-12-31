@@ -1,73 +1,47 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Jiejun Shi
+role: Principal Investigator
+avatar_filename: avatar.jpg
+bio: ""
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:jiejuns@uci.edu
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Jiejun-Shi
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=x4KH3JAAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jiejunshi
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - name: Tongji University
+    url: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Principal Investigator
+      institution: Tongji University
+      year: ""
+    - course: Assistant Project Scientist
+      institution: University of California Irvine
+      year: ""
+    - course: Post-doctoral Associate
+      institution: Baylor College of Medicine
+      year: ""
+    - course: Visiting Scholar
+      institution: Memorial Sloan-Kettering Cancer Center
+      year: ""
+    - course: PhD in Biology
+      institution: Tongji University
+    - course: BSc in Biotechnology
+      institution: Inner Mongolia University
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Researchers
+  - Principal Investigators
+highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jiejun Shi is a Principal Investigator at the School of Life Science and Technology in Tongji University. His research interests include Epigenetics, Cancer Genomics and Bioinformatics. He develops bioinformatics algorithms to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
