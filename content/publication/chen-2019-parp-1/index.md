@@ -12,7 +12,7 @@ authors:
   - Anke Geng
   - Bailian Cai
   - Tao Su
-  - admin
+  - Jiejun Shi
   - Cizhong Jiang
   - Xiao Tian
   - others
