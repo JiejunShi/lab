@@ -13,7 +13,8 @@ publication: "*PLoS One*"
 abstract: PEpiD
 draft: false
 featured: false
-tags: []
+tags:
+  - PLoS One
 categories: []
 projects: []
 image:
