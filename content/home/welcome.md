@@ -6,12 +6,12 @@ weight: 10
 title: Welcome to our Computational Biology Research Group
 hero_media: welcome.jpg
 design:
-  columns: ""
+  columns: "2"
   css_style: null
   css_class: null
   background:
     image: ""
-    color: "#8d97d3"
+    color: "#a5abd5"
 ---
 <br>
 
