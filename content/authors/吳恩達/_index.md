@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
+  - albert-einstein
 bio: ""
 interests:
   - Artificial Intelligence
