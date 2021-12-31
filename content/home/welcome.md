@@ -14,7 +14,7 @@ design:
 ---
 <br>
 
-We are a group of passionate Computational Biologist at **[School of Life Science and Technology](https://life.tongji.edu.cn/)** @ **Tongji University**. We develop bioinformatics methods to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
+We are a group of passionate Computational Biologist at **[School of Life Science and Technology](https://life.tongji.edu.cn/)** @ **[Tongji University](https://tongji.edu.cn/)**. We develop bioinformatics methods to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
 
 **Research interests:**
 
