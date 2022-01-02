@@ -10,4 +10,4 @@ design:
   css_style: null
   css_class: null
 ---
-[CAMDA](https://github.com/JiejunShi/CAMDA) The concurrence of DNA methylation and demethylation (*Nature Communications*, Sep 2021)
+[CAMDA](https://github.com/JiejunShi/CAMDA) quantifies the concurrence of DNA methylation and demethylation - an unappreciated source of methylation polymorphism (*Nature Communications*, Sep 2021)
