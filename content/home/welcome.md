@@ -4,13 +4,14 @@ widget_id: Shi Lab
 headless: true
 weight: 10
 title: Welcome
-hero_media: welcome.jpg
+#hero_media: welcome.jpg
+hero_media: 
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
-    image: 
+    image:
     color: rgba(0, 0, 0, 0)
     gradient_start: rgba(0, 0, 0, 0)
     gradient_end: "#a4acdd"
