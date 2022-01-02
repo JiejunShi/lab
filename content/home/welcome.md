@@ -4,19 +4,17 @@ widget_id: Shi Lab
 headless: true
 weight: 10
 title: Welcome
-hero_media:
+hero_media: welcome.jpg
 design:
   columns: "2"
   css_style: null
   css_class: null
   background:
-    image: welcome.jpg
+    image: 
     color: rgba(0, 0, 0, 0)
     gradient_start: rgba(0, 0, 0, 0)
     gradient_end: "#a4acdd"
 ---
-<br>
-
 to our **Computational Biology Research Group** at **[School of Life Science and Technology](https://life.tongji.edu.cn/)** @ **[Tongji University](https://tongji.edu.cn/)**. We develop bioinformatics methods to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
 
 **Research interests:**
