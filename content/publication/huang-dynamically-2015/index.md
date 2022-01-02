@@ -22,6 +22,10 @@ authors:
 - Cizhong Jiang
 - Duanqing Pei
 - Hongjie Yao
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - Animals
 - Ascorbic Acid

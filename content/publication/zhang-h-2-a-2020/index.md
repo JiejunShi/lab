@@ -19,30 +19,22 @@ authors:
 - Li Ma
 - Wei Li
 - Boyi Gan
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - AMP-Activated Protein Kinase Kinases
-- Animals
 - Cell Cycle Proteins
 - Cell Death
-- Cell Line
-- Tumor
 - Endoplasmic Reticulum Stress
-- Epigenesis
-- Genetic
-- Female
 - Gene Expression Regulation
 - Neoplastic
-- Glucose
 - Glucose Transporter Type 1
 - HEK293 Cells
 - Heterografts
 - Histones
-- Humans
 - Kidney Neoplasms
 - Lung Neoplasms
-- Mice
-- Mice
-- Nude
 - Phosphorylation
 - Polycomb Repressive Complex 1
 - Protein Kinases

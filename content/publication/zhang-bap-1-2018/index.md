@@ -23,22 +23,18 @@ authors:
 - Peng Huang
 - Wei Li
 - Boyi Gan
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
-- Amino Acid Transport System y+
-- Animals
 - Cell Death
-- Cell Line
 - Tumor
-- Cells
-- Cultured
 - Energy Metabolism
 - Gene Expression Regulation
 - Neoplastic
 - HEK293 Cells
 - Histones
-- Humans
 - Lipid Peroxidation
-- Mice
 - Neoplasms
 - Tumor Suppressor Proteins
 - Ubiquitin Thiolesterase

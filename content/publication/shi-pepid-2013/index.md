@@ -10,20 +10,16 @@ authors:
 - Qing Zhou
 - Yanhua Du
 - Cizhong Jiang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
-- Animals
 - Chromatin Assembly and Disassembly
 - Databases
-- Genetic
 - DNA Methylation
 - Epigenesis
-- Genetic
 - Histones
-- Humans
-- Male
-- Mice
 - Prostate
-- Rats
 categories: []
 date: '2013-01-01'
 lastmod: 2022-01-02T17:57:55+08:00

@@ -16,19 +16,16 @@ authors:
 - Jean-Pierre Issa
 - Jianzhong Su
 - Wei Li
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - Chromatin Immunoprecipitation Sequencing
-- CpG Islands
-- Datasets as Topic
 - Deep Learning
 - DNA Methylation
 - Epigenesis
-- Genetic
-- Epigenomics
 - Histones
-- Humans
 - Promoter Regions
-- Genetic
 - RNA-Seq
 categories: []
 date: '2021-01-01'

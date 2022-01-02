@@ -14,8 +14,10 @@ authors:
 - Jin Sun
 - Xiaobai Zhang
 - Cizhong Jiang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
-- Animals
 - AT Rich Sequence
 - Binding Sites
 - Cell Cycle Proteins
@@ -26,9 +28,6 @@ tags:
 - Nucleotide Motifs
 - Trans-Activators
 - Transcription Factors
-- Transcription Initiation Site
-- Transcription
-- Genetic
 categories: []
 date: '2014-09-01'
 lastmod: 2022-01-02T17:57:55+08:00

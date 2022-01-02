@@ -10,12 +10,12 @@ authors:
 - Xiaobing Shi
 - Wei Li
 - Hong Wen
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - Bone Neoplasms
 - Brain Neoplasms
-- Child
-- Epigenesis
-- Genetic
 - G34 mutations
 - Giant Cell Tumor of Bone
 - giant cell tumor of the bone

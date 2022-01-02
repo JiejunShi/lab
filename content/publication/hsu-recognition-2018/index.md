@@ -17,6 +17,11 @@ authors:
 - Hong Wen
 - Wei Li
 - Xiaobing Shi
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - Acetylation
 - Carcinoma
@@ -27,7 +32,6 @@ tags:
 - GAS41
 - Gene Amplification
 - Genes
-- cdc
 - H2A.Z
 - histone acetylation
 - Histones

@@ -10,12 +10,12 @@ authors:
 - Jiao-fu YANG
 - Xiao-jing WANG
 - Yan Liang
-- Man-lin WU
-- Jie-jun SHI
+- Manlin WU
+- Jiejun SHI
 - Tao Zhang
 - QIN Yin
-- Shu-yu LI
-- Xi-yan HAO
+- Shuyu LI
+- Xiyan HAO
 - ' others'
 tags: []
 categories: []

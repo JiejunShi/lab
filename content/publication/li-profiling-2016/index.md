@@ -17,25 +17,15 @@ authors:
 - Hua Gu
 - Cizhong Jiang
 - Jianmin Fang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
-- Animals
-- Carcinoma
-- Lewis Lung
-- Cell Line
-- Tumor
-- CpG Islands
 - Drug Resistance
-- Neoplasm
-- Epigenesis
-- Genetic
 - Gene Expression Profiling
 - Gene Expression Regulation
-- Neoplastic
 - Histone Code
-- Mice
 - Promoter Regions
-- Genetic
-- Receptors
 - Vascular Endothelial Growth Factor
 - Recombinant Fusion Proteins
 categories: []

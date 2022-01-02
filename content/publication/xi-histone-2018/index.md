@@ -26,25 +26,23 @@ authors:
 - W. Lee Kraus
 - Wei Li
 - Sharon Y. R. Dent
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 tags:
-- Biomarkers
-- Tumor
 - Breast cancer subtypes
 - Breast Neoplasms
 - Cell Line
-- Tumor
-- Chromatin
 - Chromatin states
-- Epigenesis
-- Genetic
 - Epigenetics
-- Female
 - Gene Expression Profiling
 - Gene Expression Regulation
 - Neoplastic
 - Histone modifications
 - Histones
-- Humans
 - Transcriptome
 categories: []
 date: '2018-02-01'
