@@ -1,5 +1,5 @@
 ---
-title: CAMDA - Quantify the concurrence of DNA methylation and demethylation.
+title: The concurrence of DNA methylation and demethylation (CAMDA)
 date: 2021-12-31T04:21:38.623Z
 draft: false
 featured: false
