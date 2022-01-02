@@ -23,7 +23,7 @@ twitter: ''
 email: jiejuns@uci.edu
 phone: 021-66666666
 address:
-  street: 1239 Siping Road 
+  street: 1239 Siping Road
   city: Shanghai
   region: Shanghai
   postcode: '200092'
@@ -32,9 +32,9 @@ address:
 coordinates:
   latitude: '31.28607'
   longitude: '121.49420'
-directions: Enter Tongji Main Campus through the gate of No.50 Chifeng Road
+directions: Enter Tongji Main Campus through the gate at No.50 Chifeng Road
 office_hours:
-  - 'Monday-Friday 9:00 to 18:00'
+  - 'Monday-Friday 9:00 to 17:00'
 appointment_url: ''
 contact_links:
 #  - icon: comments
@@ -70,7 +70,7 @@ show_related:
   project: true
   publication: true
   talk: true
-reading_time: true
+reading_time: false
 section_pager: false
 sharing: true
 copyright_license:
@@ -85,7 +85,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: APA
 projects:
   post_view: 2
   publication_view: 2
