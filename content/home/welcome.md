@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     image:
-    color: rgb(203, 188, 88)
+    color: rgb(213, 188, 88)
     gradient_start:
     gradient_end:
 ---
