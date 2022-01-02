@@ -21,6 +21,7 @@ content:
 design:
   view: 3
   columns: "1"
+  color: white
   background:
     image: welcome.jpg
     image_darken: 1.0
