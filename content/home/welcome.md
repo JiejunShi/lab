@@ -6,14 +6,14 @@ weight: 10
 title: Welcome
 #hero_media: welcome.jpg
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
     image:
     color: rgba(203, 188, 88, 0)
     gradient_start:
-    gradient_end: 
+    gradient_end:
 ---
 to our **Computational Biology Research Group** at **[School of Life Science and Technology](https://life.tongji.edu.cn/)** @ **[Tongji University](https://tongji.edu.cn/)**. We develop bioinformatics methods to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
 
