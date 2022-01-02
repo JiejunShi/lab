@@ -7,11 +7,12 @@ title: Welcome
 #hero_media: welcome.jpg
 design:
   columns: "1"
+  color: rgb(108, 82, 27)
   css_style: null
   css_class: null
   background:
     image:
-    color: rgba(203, 188, 88, 0)
+    color: 
     gradient_start:
     gradient_end:
 ---
