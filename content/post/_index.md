@@ -11,6 +11,4 @@ view: 2
 header:
   caption: ""
   image: ""
-  background:
-    color: rgb(240, 230, 180)
 ---

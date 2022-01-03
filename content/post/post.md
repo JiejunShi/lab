@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: Software and Database
+title: News
 headless: true
 weight: 10
 design:
