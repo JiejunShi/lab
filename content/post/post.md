@@ -1,4 +1,5 @@
 ---
+type: widget_page
 widget: blank
 title: News
 headless: true
