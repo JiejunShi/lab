@@ -10,4 +10,4 @@ design:
   css_style: null
   css_class: null
 ---
-[PopCanyon](https://github.com/JiejunShi/PopCanyon) discovers the Under-Methylated Regions(UMR) in population study [*Genome Biology*, 2018](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1492-3)
+[PopCanyon](https://github.com/JiejunShi/PopCanyon) discovers the Under-Methylated Regions(UMR) in population study. [*Genome Biology*, 2018](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1492-3)
