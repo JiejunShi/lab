@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   #form:
     #provider: netlify
@@ -27,6 +27,8 @@ content:
 
 design:
   columns: '1'
+  background:
+    color: rgb(240, 230, 180)
 ---
 
 ## Postdoc in bioinformatics
@@ -34,4 +36,3 @@ developing algorithms
 
 ## Postdoc in biology
 perform next-gen sequencing
-

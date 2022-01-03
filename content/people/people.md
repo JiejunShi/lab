@@ -26,4 +26,6 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  background:
+    color: rgb(240, 230, 180)
 ---
