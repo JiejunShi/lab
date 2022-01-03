@@ -1,6 +1,6 @@
 ---
 title: Latest News
-
+type: widget_page
 # View.
 #   1 = List
 #   2 = Compact
