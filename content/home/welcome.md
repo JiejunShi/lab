@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: Shi Lab
+widget_id: JunLab
 headless: true
 weight: 10
 title: Welcome
