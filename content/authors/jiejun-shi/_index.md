@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:temp@temp.edu
+    link: mailto:shij@tongji.edu.cn
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Jiejun-Shi
