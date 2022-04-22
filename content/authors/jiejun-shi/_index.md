@@ -19,7 +19,7 @@ social:
     link: https://github.com/jiejunshi
 organizations:
   - name: Tongji University
-    url: ""
+    url: https://life.tongji.edu.cn/c9/9a/c12618a248218/page.htm
 education:
   courses:
     - course: Principal Investigator
