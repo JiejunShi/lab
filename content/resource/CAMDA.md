@@ -10,6 +10,8 @@ design:
   css_style: null
   css_class: null
 ---
-CAMDA quantifies the concurrence of DNA methylation and demethylation - an unappreciated source of methylation polymorphism. [*Nature Communications*, Sep 2021](https://doi.org/10.1038/s41467-021-25521-7)
+The *C*oncurrence of *A*ctive *M*ethylation and *D*emethyl*A*tion - an unappreciated source of DNA methylation polymorphism.
 
-[GitHub release](https://github.com/JiejunShi/CAMDA)
+**Paper** [*Nature Communications*, Sep 2021](https://doi.org/10.1038/s41467-021-25521-7)
+
+**Code** [GitHub release](https://github.com/JiejunShi/CAMDA)
