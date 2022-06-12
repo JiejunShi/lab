@@ -1,5 +1,5 @@
 ---
-title: Jiejun Shi
+title: Jiejun Shi(史偈君)
 role: Principal Investigator
 avatar_filename: avatar.jpg
 bio: ""
