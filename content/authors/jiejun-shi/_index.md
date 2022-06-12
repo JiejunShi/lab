@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://github.com/jiejunshi
 organizations:
-  - name: Tongji University
+  - name: School of Life Science and Technology, Tongji University
     url: https://life.tongji.edu.cn/c9/9a/c12618a248218/page.htm
 education:
   courses:
