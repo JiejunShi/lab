@@ -1,5 +1,5 @@
 ---
-title: Jiejun Shi(史偈君)
+title: Jiejun Shi
 role: Principal Investigator
 avatar_filename: avatar.jpg
 bio: ""
@@ -44,4 +44,4 @@ user_groups:
   - Principal Investigators
 highlight_name: true
 ---
-Jiejun Shi is a Principal Investigator at the School of Life Science and Technology in Tongji University. His research interests include Epigenetics, Cancer Genomics and Bioinformatics. He develops bioinformatics algorithms to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
+**Jiejun Shi (史偈君)** is a Principal Investigator at the School of Life Science and Technology in Tongji University. His research interests include Epigenetics, Cancer Genomics and Bioinformatics. He develops bioinformatics algorithms to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
