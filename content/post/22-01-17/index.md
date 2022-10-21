@@ -1,7 +1,7 @@
 ---
-title: New journey starts at 2022-1-17
-date: 2022-1-17
+title: New journey starts at 2022
+date: 2022-1
 image:
   focal_point: top
 ---
-JunLab @ Tongji starts at 2022-1-17
+JunLab @ Tongji starts at 2022-1
