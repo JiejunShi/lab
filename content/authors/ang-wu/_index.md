@@ -10,7 +10,9 @@ authors:
   - ang-wu
 bio: ""
 interests:
-  - 
+  - Playing the violin
+  - Drawing
+  - Reading
 social:
   - icon: envelope
     icon_pack: fas
