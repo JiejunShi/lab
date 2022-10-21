@@ -1,7 +1,7 @@
 ---
 title: Shuting Zhou
 role: PhD Student (2022)
-avatar_filename: ZhouShuting.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Tongji University
     url: ""
