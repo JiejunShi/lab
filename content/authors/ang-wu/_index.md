@@ -10,7 +10,7 @@ authors:
   - ang-wu
 bio: ""
 interests:
-  - Epigenetics and Bioinformatics
+  - 
 social:
   - icon: envelope
     icon_pack: fas
