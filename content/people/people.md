@@ -19,12 +19,13 @@ content:
   - Principal Investigators
   - PhD Students
   - Master Students
+  - Co-mentored Students
   - Undergraduate Students
   - Administration
   - Visitors
   - Alumni
 design:
-  show_interests: false
+  show_interests: true
   show_role: true
   show_social: true
   background:

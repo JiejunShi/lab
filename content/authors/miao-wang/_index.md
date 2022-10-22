@@ -1,6 +1,6 @@
 ---
 title: Miao Wang
-role: Master Student (2022)
+role: 2022
 avatar_filename: avatar.jpg
 organizations:
   - name: Tongji University

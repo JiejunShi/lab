@@ -1,6 +1,6 @@
 ---
 title: Ang Wu
-role: PhD (2022, co-mentored)
+role: 2022
 avatar_filename: avatar.jpg
 organizations:
   - name: Tongji University
@@ -24,6 +24,6 @@ education:
       year: 2022
 email: ""
 user_groups:
-  - PhD Students
+  - Co-mentored Students
 ---
 Ang Wu (武昂) is a co-mentored (with Prof. Jiamin Zhang) PhD candidate at the School of Life Science and Technology in Tongji University. Her research interests include Epigenetics and Bioinformatics.
