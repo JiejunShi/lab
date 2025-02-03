@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Acute inflammation induces acute megakaryopoiesis with impaired platelet production during fetal hematopoiesis
+title: Acute inflammation induces acute megakaryopoiesis with impaired platelet 
+ production during fetal hematopoiesis
 subtitle: ''
 summary: ''
 authors:

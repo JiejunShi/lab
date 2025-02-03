@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A targetable CoQ-FSP1 axis drives ferroptosis- and radiation-resistance in 
-KEAP1 inactive lung cancers
+ KEAP1 inactive lung cancers
 subtitle: ''
 summary: ''
 authors:
