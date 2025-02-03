@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: BASAL: a universal mapping algorithm for nucleotide base-conversion sequencing
+title: BASAL - a universal mapping algorithm for nucleotide base-conversion sequencing
 subtitle: ''
 summary: ''
 authors:
