@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - Zhibo Wang
+  - zhibo-wang
 bio: ""
 interests:
   - XXX
