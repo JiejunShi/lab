@@ -12,6 +12,10 @@ authors:
 - Yawei Gao
 - Jun Liu
 - Jiejun Shi
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - RNA Modification
 - DNA Modification
@@ -19,7 +23,7 @@ tags:
 
 categories: []
 date: '2024-12-01'
-lastmod: 2025-01-02
+lastmod: 2025-01-02T17:57:52+08:00
 featured: false
 draft: false
 
@@ -37,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-12-01'
+publishDate: '2024-12-01T17:57:52+08:00'
 publication_types:
 - '2'
 abstract: Utilizing base-conversion (BC) techniques, single-base resolution profiling of RNA and DNA 
