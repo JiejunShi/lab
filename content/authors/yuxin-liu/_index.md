@@ -9,19 +9,21 @@ organizations:
 superuser: false
 bio: ""
 interests:
-  - XXX
+  - Listening to music
+  - Skateboarding
+  - Playing badminton
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:XXX@tongji.edu.cn
+    link: mailto:2333171@tongji.edu.cn
 education:
   courses:
-    - course: BSc in XXX
-      institution: XXX University
-      year: 2024
+    - course: BSc in Biotechnology
+      institution: Ningxia University
+      year: 2022
 email: ""
 user_groups:
   - Co-mentored Students
 highlight_name: true
 ---
-**Yuxin Liu (刘玉鑫)** is a co-mentored (with Prof. Jiamin Zhang) PhD candidate at the School of Life Science and Technology in Tongji University. Her research interests include XXX.
+**Yuxin Liu (刘玉鑫)** is a co-mentored (with Prof. Jiamin Zhang) master's student at the School of Life Science and Technology in Tongji University. Her research interests include Epigenetics and Bioinformatics.
