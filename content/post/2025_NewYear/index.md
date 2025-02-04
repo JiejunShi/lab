@@ -1,7 +1,7 @@
 ---
-title: Welcome on board
-date: 2022-10
+title: Happy New Year 2025!
+date: 2025-01
 image:
   focal_point: top
 ---
-Welcome our new PhD students Moping, Shuting and Ang, Master student Miao, undergraduate student Haonan!
+![alt](2025_NewYear.jpg)

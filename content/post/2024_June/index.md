@@ -1,7 +1,7 @@
 ---
-title: Welcome on board
-date: 2022-10
+title: Happy Lunch Hour at Assa Middle Eastern Cuisine !
+date: 2024-06
 image:
   focal_point: top
 ---
-Welcome our new PhD students Moping, Shuting and Ang, Master student Miao, undergraduate student Haonan!
+![alt](2024_June.jpg)
