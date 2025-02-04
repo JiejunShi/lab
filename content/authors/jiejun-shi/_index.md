@@ -3,10 +3,6 @@ title: Jiejun Shi
 role: Principal Investigator
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Reading
-  - Hiking
-  - Badminton
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,6 +37,10 @@ education:
       institution: Tongji University
     - course: BSc in Biotechnology
       institution: Inner Mongolia University
+interests:
+  - Reading
+  - Hiking
+  - Badminton
 email: ""
 superuser: true
 user_groups:
