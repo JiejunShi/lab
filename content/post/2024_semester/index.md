@@ -1,7 +1,7 @@
 ---
 title: Welcome on board
-date: 2022-10
+date: 2024-09
 image:
   focal_point: top
 ---
-Welcome our new PhD students Moping, Shuting and Ang, Master student Miao, undergraduate student Haonan!
+Welcome our new PhD students Shirui, Master student Jialin, undergraduate student Zhibo!
