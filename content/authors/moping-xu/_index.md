@@ -6,8 +6,6 @@ organizations:
   - name: Tongji University
     url: ""
 superuser: false
-authors:
-  - 01-mopingxu
 bio: ""
 interests:
   - Dancing
@@ -24,5 +22,6 @@ education:
 email: ""
 user_groups:
   - PhD Students
+highlight_name: true
 ---
 Moping Xu (徐默萍) is a PhD candidate at the School of Life Science and Technology in Tongji University. Her research focuses on the epigenetic allele based on DNA methylation sequencing.
