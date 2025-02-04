@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 01-moping-xu
+  - moping-xu
 bio: ""
 interests:
   - Dancing
