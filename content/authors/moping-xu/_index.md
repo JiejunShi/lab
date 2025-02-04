@@ -25,4 +25,4 @@ user_groups:
   - PhD Students
 highlight_name: true
 ---
-Moping Xu (徐默萍) is a PhD candidate at the School of Life Science and Technology in Tongji University. Her research focuses on the epigenetic allele based on DNA methylation sequencing.
+**Moping Xu (徐默萍)** is a PhD candidate at the School of Life Science and Technology in Tongji University. Her research focuses on the epigenetic allele based on DNA methylation sequencing.

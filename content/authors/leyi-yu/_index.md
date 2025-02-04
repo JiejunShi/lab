@@ -24,4 +24,4 @@ user_groups:
   - Alumni
 highlight_name: true
 ---
-Leyi Yu (余乐毅) received her bachelor's degree in XXX from XXX University in 2023. She joined JunLab at XXX. Her research focuses on the XXX.
+**Leyi Yu (余乐毅)** received her bachelor's degree in XXX from XXX University in 2023. She joined JunLab at XXX. Her research focuses on the XXX.

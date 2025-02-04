@@ -24,4 +24,4 @@ user_groups:
   - Undergraduate Students
 highlight_name: true
 ---
-Zhibo Wang (王智博) is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX
+**Zhibo Wang (王智博)** is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX

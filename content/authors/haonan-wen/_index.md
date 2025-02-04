@@ -24,4 +24,4 @@ email: ""
 user_groups:
   - Alumni
 ---
-Haonan Wen (文浩楠) is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the epiallele and establishing relevant databases.
+**Haonan Wen (文浩楠)** is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the epiallele and establishing relevant databases.

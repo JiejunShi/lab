@@ -24,4 +24,4 @@ user_groups:
   - Undergraduate Students
 highlight_name: true
 ---
-Jinling Yuan (袁金铃) is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX
+**Jinling Yuan (袁金铃)** is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX
