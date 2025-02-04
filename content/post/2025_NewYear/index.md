@@ -1,6 +1,7 @@
 ---
 title: Happy New Year 2025!
 date: 2025-01-03
+showthedate: true
 image:
   focal_point: top
 ---
