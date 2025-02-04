@@ -1,8 +1,7 @@
 ---
-title: Wenzhou Conference
+title: We joined the “第五届全国表观遗传信息学研讨会暨表观遗传信息学专委会成立大会” at Wenzhou!
 date: 2023-06
 image:
   focal_point: top
 ---
-We joined the “第五届全国表观遗传信息学研讨会暨表观遗传信息学专委会成立大会” at Wenzhou!
-![alt](/assets/media/BASAL.png)
+![alt](2023_Wenzhou.jpg)
