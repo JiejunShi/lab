@@ -1,7 +1,7 @@
 ---
 title: Happy New Year 2025!
 date: 2025-01-03
-showthedate: true
+lastmod: 2025-01-03
 image:
   focal_point: top
 ---
