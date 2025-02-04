@@ -3,7 +3,10 @@ title: Jiejun Shi
 role: Principal Investigator
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Reading
+  - Hiking
+  - Badminton
 social:
   - icon: envelope
     icon_pack: fas
