@@ -24,5 +24,6 @@ education:
 email: ""
 user_groups:
   - PhD Students
+highlight_name: true
 ---
 Faying Chen (陈发迎) is a PhD candidate at the School of Life Science and Technology in Tongji University. His research focuses on the ...

@@ -24,5 +24,6 @@ education:
 email: ""
 user_groups:
   - PhD Students
+highlight_name: true
 ---
 Miao Wang (王淼) received her bachelor's degree in Bioinformatics from Nanjing Medical University in 2022. She joined JunLab at XXX. Her research focuses on DNA Methylation Heterogeneity during tumorgenesis and aging.

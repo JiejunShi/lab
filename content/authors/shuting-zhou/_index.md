@@ -26,5 +26,6 @@ education:
 email: ""
 user_groups:
   - PhD Students
+highlight_name: true
 ---
 Shuting Zhou (周淑廷) is a PhD candidate at the School of Life Science and Technology in Tongji University. Her research focuses on The regulation of DNA demethylation on tumor mutation burden.

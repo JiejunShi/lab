@@ -24,5 +24,6 @@ education:
 email: ""
 user_groups:
   - Master Students
+highlight_name: true
 ---
 Jialin Tian (田家林) received his bachelor's degree in XXX from XXX University in 2023. He joined JunLab at XXX. His research focuses on the XXX.

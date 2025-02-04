@@ -24,5 +24,6 @@ education:
 email: ""
 user_groups:
   - PhD Students
+highlight_name: true
 ---
 Shirui Zhou (周诗芮) received his bachelor's degree in XXX from XXX University in 2023. He joined JunLab at XXX. His research focuses on the XXX.

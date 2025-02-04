@@ -26,5 +26,6 @@ education:
 email: ""
 user_groups:
   - Co-mentored Students
+highlight_name: true
 ---
 Ang Wu (武昂) is a co-mentored (with Prof. Jiamin Zhang) PhD candidate at the School of Life Science and Technology in Tongji University. Her research interests include Epigenetics and Bioinformatics.
