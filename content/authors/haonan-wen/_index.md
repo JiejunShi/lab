@@ -7,8 +7,6 @@ organizations:
   - name: Tongji University
     url: ""
 superuser: false
-authors:
-  - haonan-wen
 bio: ""
 interests:
   - Dragon dance

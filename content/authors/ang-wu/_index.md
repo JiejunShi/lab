@@ -7,8 +7,6 @@ organizations:
   - name: Tongji University
     url: ""
 superuser: false
-authors:
-  - ang-wu
 bio: ""
 interests:
   - Playing the violin

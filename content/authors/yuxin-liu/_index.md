@@ -7,8 +7,6 @@ organizations:
   - name: Tongji University
     url: ""
 superuser: false
-authors:
-  - yuxin-liu
 bio: ""
 interests:
   - XXX
@@ -24,5 +22,6 @@ education:
 email: ""
 user_groups:
   - Co-mentored Students
+highlight_name: true
 ---
 Yuxin Liu (刘玉鑫) is a co-mentored (with Prof. Jiamin Zhang) PhD candidate at the School of Life Science and Technology in Tongji University. Her research interests include XXX.

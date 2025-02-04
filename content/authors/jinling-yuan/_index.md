@@ -1,6 +1,6 @@
 ---
-title: Zhibo Wang
-weight: 105
+title: Jinling Yuan
+weight: 106
 role: 2024
 avatar_filename: avatar.jpg
 organizations:
@@ -24,4 +24,4 @@ user_groups:
   - Undergraduate Students
 highlight_name: true
 ---
-Zhibo Wang (王智博) is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX
+Jinling Yuan (袁金铃) is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX
