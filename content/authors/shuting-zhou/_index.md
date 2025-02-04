@@ -1,5 +1,6 @@
 ---
 title: Shuting Zhou
+weight: 2
 role: 2022
 avatar_filename: avatar.jpg
 organizations:

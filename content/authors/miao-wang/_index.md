@@ -1,5 +1,6 @@
 ---
 title: Miao Wang
+weight: 3
 role: 2022
 avatar_filename: avatar.jpg
 organizations:

@@ -1,5 +1,6 @@
 ---
 title: Faying Chen
+weight: 5
 role: 2023
 avatar_filename: avatar.jpg
 organizations:

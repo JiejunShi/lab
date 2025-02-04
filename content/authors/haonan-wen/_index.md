@@ -1,5 +1,6 @@
 ---
 title: Haonan Wen
+weight: 102
 role: 2022
 avatar_filename: avatar.jpg
 organizations:

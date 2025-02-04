@@ -1,5 +1,6 @@
 ---
 title: Moping Xu
+weight: 1
 role: 2022
 avatar_filename: avatar.jpg
 organizations:
@@ -7,8 +8,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 01-mopingxu
-weight: 0
+  - moping-xu
 bio: ""
 interests:
   - Dancing

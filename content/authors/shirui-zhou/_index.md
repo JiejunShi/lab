@@ -1,5 +1,6 @@
 ---
 title: Shirui Zhou
+weight: 7
 role: 2024
 avatar_filename: avatar.jpg
 organizations:

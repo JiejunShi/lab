@@ -1,5 +1,6 @@
 ---
 title: Tingting Luo
+weight: 6
 role: 2023
 avatar_filename: avatar.jpg
 organizations:

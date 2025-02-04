@@ -1,5 +1,6 @@
 ---
 title: Zhibo Wang
+weight: 105
 role: 2024
 avatar_filename: avatar.jpg
 organizations:

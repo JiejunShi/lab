@@ -1,5 +1,6 @@
 ---
 title: Jialin Tian
+weight: 8
 role: 2024
 avatar_filename: avatar.jpg
 organizations:
