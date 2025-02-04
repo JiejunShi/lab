@@ -1,6 +1,6 @@
 ---
-title: Welcome on board
-date: 2023-09
+title: Welcome Shengwei, Faying, Tingting, and Leyi!
+date: 2023-09-01
 image:
   focal_point: top
 ---

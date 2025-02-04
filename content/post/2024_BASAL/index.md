@@ -1,6 +1,6 @@
 ---
 title: BASAL is published on NAR!
-date: 2024-12
+date: 2024-12-01
 image:
   focal_point: top
 ---

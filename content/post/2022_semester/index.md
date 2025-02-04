@@ -1,6 +1,6 @@
 ---
-title: Welcome on board
-date: 2022-10
+title: Welcome Moping, Shuting, Miao, Ang and Haonan!
+date: 2022-10-01
 image:
   focal_point: top
 ---

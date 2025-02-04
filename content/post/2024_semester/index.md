@@ -1,6 +1,6 @@
 ---
-title: Welcome on board
-date: 2024-09
+title: Welcome Shirui, Jialin, and Zhibo!
+date: 2024-09-01
 image:
   focal_point: top
 ---
