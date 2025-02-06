@@ -9,19 +9,19 @@ organizations:
 superuser: false
 bio: ""
 interests:
-  - XXX
+  - Reading
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:XXX@tongji.edu.cn
+    link: mailto:2433339@tongji.edu.cn
 education:
   courses:
-    - course: BSc in XXX
-      institution: XXX University
+    - course: BSc in Biology
+      institution: Huazhong University of science and technology
       year: 2024
 email: ""
 user_groups:
   - Master Students
 highlight_name: true
 ---
-**Jialin Tian (田家林)** received his bachelor's degree in XXX from XXX University in 2023. He joined JunLab at XXX. His research focuses on the XXX.
+**Jialin Tian (田家林)** received his Bachelor's degree in Biology from Huazhong University of Science and Technology in 2024. He joined JunLab in 2024. His research focuses on the aging-related epigenetic modifications.
