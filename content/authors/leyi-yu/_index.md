@@ -13,15 +13,15 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:...@tongji.edu.cn
+    link: mailto:yuleyi@tongji.edu.cn
 education:
   courses:
     - course: BSc in Bioinformatics
-      institution: Fujian Medical University
+      institution: Tongji University
       year: 2023
 email: ""
 user_groups:
   - Alumni
 highlight_name: true
 ---
-**Leyi Yu (余乐毅)** received her bachelor's degree in XXX from XXX University in 2023. She joined JunLab at XXX. Her research focuses on the XXX.
+**Leyi Yu (余乐毅)** received her bachelor's degree in Bioinformatics from Tongji University in 2024. She  completed her undergraduate thesis project at JunLab. Now she is a PhD Candidate at Peking University.
