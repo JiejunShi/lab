@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Pathogen-derived glyoxylate inhibits Tet2 DNA dioxygenase to 
-| facilitate bacterial persister formation
+ facilitate bacterial persister formation
 subtitle: ''
 summary: ''
 authors:
