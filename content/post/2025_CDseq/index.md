@@ -1,6 +1,6 @@
 ---
 title: CD-seq/CT-seq is published on Adv Sci!
-date: 2025-7-17
+date: 2025-07-17
 image:
   focal_point: top
 ---
