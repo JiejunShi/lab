@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Direct Sequencing of 5-Methylcytosine and 5-Hydroxymethylcytosine
- at Single-Base Resolution Unravels Their Distinct Roles
- in Alzheimer's Disease
+ at Single-Base Resolution Unravels Their Distinct Roles in Alzheimer's Disease
 subtitle: ''
 summary: ''
 authors:
@@ -44,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-07-17T15:42:53.873718Z'
+publishDate: '2025-07-16T15:42:53.873718Z'
 publication_types:
 - '2'
 publication: '*Advanced Science*'
