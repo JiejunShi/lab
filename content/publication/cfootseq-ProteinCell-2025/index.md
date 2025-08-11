@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Genome-wide investigation of transcription factor occupancy and
- dynamics using cFOOT-seq
+title: Genome-wide investigation of transcription factor occupancy and dynamics using cFOOT-seq
 subtitle: ''
 summary: ''
 authors:
@@ -51,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-08-11T15:42:53.873718Z'
+publishDate: '2025-08-04T15:42:53.873718Z'
 publication_types:
 - '2'
 publication: '*Protein & Cell*'
