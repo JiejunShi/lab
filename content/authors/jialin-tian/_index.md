@@ -21,7 +21,7 @@ education:
       year: 2024
 email: ""
 user_groups:
-  - Master Students
+  - Alumni
 highlight_name: true
 ---
 **Jialin Tian (田家林)** received his Bachelor's degree in Biology from Huazhong University of Science and Technology in 2024. He joined JunLab in 2024. His research focuses on the aging-related epigenetic modifications.
