@@ -12,7 +12,7 @@ authors:
 - Xiyang Chen
 - Zhifei Shi
 - Yiqun Zhang
-- Yu-Xin Liu
+- Yuxin Liu
 - Kai Chen
 - Xiaosong Wang
 - Xiao-Fang Cheng

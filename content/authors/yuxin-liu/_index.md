@@ -1,5 +1,5 @@
 ---
-title: Yu-Xin Liu
+title: Yuxin Liu
 weight: 104
 role: 2024
 avatar_filename: avatar.jpg
