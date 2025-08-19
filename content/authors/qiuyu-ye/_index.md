@@ -1,6 +1,6 @@
 ---
 title: Qiuyu Ye
-weight: 107
+weight: 106
 role: 2024
 avatar_filename: avatar.jpg
 organizations:
@@ -21,7 +21,7 @@ education:
       year: 2024
 email: ""
 user_groups:
-  - Undergraduate Students
+  - Alumni
 highlight_name: true
 ---
-**Qiuyu Ye (叶秋雨)** is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX
+**Qiuyu Ye (叶秋雨)** is an undergraduate at the School of Life Science and Technology in Tongji University.

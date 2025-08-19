@@ -19,6 +19,9 @@ education:
     - course: BSc in Bioinformatics
       institution: Tongji University
       year: 2023
+    - course: PhD in Bioinformatics
+      institution: Peking University
+      year: 2024
 email: ""
 user_groups:
   - Alumni

@@ -1,6 +1,6 @@
 ---
 title: Jinling Yuan
-weight: 106
+weight: 105
 role: 2024
 avatar_filename: avatar.jpg
 organizations:
@@ -21,7 +21,7 @@ education:
       year: 2024
 email: ""
 user_groups:
-  - Undergraduate Students
+  - Alumni
 highlight_name: true
 ---
-**Jinling Yuan (袁金铃)** is an undergraduate at the School of Life Science and Technology in Tongji University. His research focuses on the XXX
+**Jinling Yuan (袁金铃)** is an undergraduate at the School of Life Science and Technology in Tongji University.
