@@ -6,6 +6,6 @@ image:
 ---
 We joined the "2025年度表观遗传与染色质生物学大会" at 成都都江堰 and enjoyed the magnificent scenery of 四姑娘山! 
 
-Wish joyful life for all JunLab members!
+Wish joyful life to all JunLab members!
 
 ![alt](202508_Chengdu.jpg)
