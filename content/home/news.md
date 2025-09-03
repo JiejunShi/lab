@@ -20,7 +20,7 @@ content:
   page_type: post
 design:
   view: 3
-  columns: "2"
+  columns: "3"
   color: white
   background:
     image: 202508_Chengdu.jpg
