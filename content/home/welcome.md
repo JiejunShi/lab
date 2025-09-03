@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     image:
-    color: rgb(240, 230, 180)
+    color: rgba(240, 230, 180, 50)
     gradient_start:
     gradient_end:
   spacing:
