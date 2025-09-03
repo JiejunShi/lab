@@ -8,7 +8,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 5
+  count: 10
   filters:
     author: ""
     category: ""
@@ -20,7 +20,7 @@ content:
   page_type: post
 design:
   view: 3
-  columns: "1"
+  columns: "2"
   color: white
   background:
     image: 202508_Chengdu.jpg
@@ -30,5 +30,5 @@ design:
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["20px", "20px", "20px", "0"]
 ---
