@@ -18,6 +18,8 @@ content:
   offset: 0
   order: desc
   page_type: post
+  fonts:
+    color: rgb(240, 230, 180)
 design:
   view: 2
   columns: "1"
@@ -31,6 +33,5 @@ design:
     text_color_light: false
   spacing:
     padding: ["20px", "80px", "20px", "0"]
-  fonts:
-    color: rgb(240, 230, 180)
+
 ---
