@@ -32,5 +32,5 @@ design:
   spacing:
     padding: ["20px", "80px", "20px", "0"]
   fonts:
-    color: white
+    color: rgb(240, 230, 180)
 ---
