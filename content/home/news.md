@@ -18,8 +18,7 @@ content:
   offset: 0
   order: desc
   page_type: post
-  fonts:
-    color: rgb(240, 230, 180)
+
 design:
   view: 2
   columns: "1"
