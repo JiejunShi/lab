@@ -10,7 +10,7 @@ authors:
 - Kai Xu
 - Leyi Yu
 - Xiaomao Yin
-- ...
+- et al.
 - Zhiqian Hu
 - Qi Huang
 - Xinxing Li
