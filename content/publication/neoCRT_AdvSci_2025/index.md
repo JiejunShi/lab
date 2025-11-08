@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: T Cell Exhaustion and Dendritic Cell-Mediated Tertiary Lymphoid Structures (TLSs) Modulation Affect Response to Neoadjuvant Chemoradiotherapy in Microsatellite Stable Rectal Cancer
+title: T Cell Exhaustion and Dendritic Cell-Mediated Tertiary Lymphoid Structures Modulation Affect Response to Neoadjuvant Chemoradiotherapy in Microsatellite Stable Rectal Cancer
 subtitle: ''
 summary: ''
 authors:
@@ -16,8 +16,8 @@ authors:
 - Xinxing Li
 
 categories: []
-date: '2025-08-11'
-lastmod: 2025-08-11T14:57:52+08:00
+date: '2025-11-07'
+lastmod: 2025-11-07T14:57:52+08:00
 featured: false
 draft: false
 
