@@ -23,6 +23,11 @@ authors:
 - Jiejun Shi
 - Jian-Huang Xue
 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+
 categories: []
 date: '2025-07-16'
 lastmod: 2025-07-17T14:57:52+08:00

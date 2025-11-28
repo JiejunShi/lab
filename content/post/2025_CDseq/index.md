@@ -1,5 +1,5 @@
 ---
-title: CD-seq/CT-seq is published on Adv Sci!
+title: CD-seq/CT-seq is published on Advanced Science!
 date: 2025-07-17
 image:
   focal_point: top

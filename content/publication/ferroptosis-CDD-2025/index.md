@@ -1,30 +1,35 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: T Cell Exhaustion and Dendritic Cell Mediated Tertiary Lymphoid Structures 
-  Modulation Affect Response to Neoadjuvant Chemoradiotherapy in Microsatellite 
-  Stable Rectal Cancer
+title: Epigenetic regulation of ACSL4 via H2A monoubiquitylation connects 
+  lipid metabolism to BAP1-mediated ferroptosis
 subtitle: ''
 summary: ''
 authors:
-- Miao Wang
+- Kexin Fan
+- Shuting Zhou
+- Yakun Ren
+- Jingwen Xiong
+- Hua Wang
+- Yaxin Fu
+- Yuhan Chen
+- Bobo Wang
+- Kun Fan
+- Min Gao
+- Tingli Guo
+- Xiaofeng Wei
+- Lianying Jiao
 - Jiejun Shi
-- Kai Xu
-- Leyi Yu
-- Xiaomao Yin
-- Zhiqian Hu
-- Qi Huang
-- Xinxing Li
+- Chenguang Ding
+- Yilei Zhang
 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
 
 categories: []
-date: '2025-11-07'
-lastmod: 2025-11-07T14:57:52+08:00
+date: '2025-11-28'
+lastmod: 2025-11-28T14:57:52+08:00
 featured: false
 draft: false
 
@@ -42,12 +47,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-11-07T15:42:53.873718Z'
+publishDate: '2025-11-28T15:42:53.873718Z'
 publication_types:
 - '2'
-publication: '*Advanced Science*'
-doi: 10.1002/advs.202514332
+publication: '*Cell Death & Differentiation*'
+doi: 10.1038/s41418-025-01624-2
 links:
 - name: URL
-  url: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202514332
+  url: https://www.nature.com/articles/s41418-025-01624-2
 ---

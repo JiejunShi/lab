@@ -30,6 +30,11 @@ authors:
 - Shaorong Gao
 - Jia-Min Zhang
 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+
 categories: []
 date: '2025-08-11'
 lastmod: 2025-08-11T14:57:52+08:00
