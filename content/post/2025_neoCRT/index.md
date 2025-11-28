@@ -1,5 +1,5 @@
 ---
-title: A collaboration study is published on Advanced Science!
+title: New Publication - Advanced Science
 date: 2025-11-08
 image:
   focal_point: top

@@ -1,5 +1,5 @@
 ---
-title: A collaboration study is published on Cell Death & Differentiation!
+title: New Publication - Cell Death & Differentiation
 date: 2025-11-28
 image:
   focal_point: top
