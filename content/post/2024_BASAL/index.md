@@ -1,5 +1,5 @@
 ---
-title: \[New Publication\] Nucleic Acids Research
+title: [New Publication] Nucleic Acids Research
 date: 2024-12-01
 image:
   focal_point: top
