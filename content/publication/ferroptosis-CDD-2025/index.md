@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Epigenetic regulation of ACSL4 via H2A monoubiquitylation connects 
-  lipid metabolism to BAP1-mediated ferroptosis
+ lipid metabolism to BAP1-mediated ferroptosis
 subtitle: ''
 summary: ''
 authors:
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-11-28T15:42:53.873718Z'
+publishDate: '2025-11-27T15:42:53.873718Z'
 publication_types:
 - '2'
 publication: '*Cell Death & Differentiation*'
