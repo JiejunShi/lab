@@ -1,5 +1,5 @@
 ---
-title: New Publication - Protein & Cell!
+title: New Publication - Protein & Cell
 date: 2025-08-11
 image:
   focal_point: top
