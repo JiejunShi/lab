@@ -17,10 +17,12 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-to our **Computational Biology Research Group** at **[School of Life Science and Technology](https://life.tongji.edu.cn/)** @ **[Tongji University](https://tongji.edu.cn/)**. We develop bioinformatics methods to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
+to our **Computational Biology Research Group** at **School of Life Science and Technology** @ **Tongji University**. We develop bioinformatics methods to interpret the large-scale biomedical data and reveal the molecular basis of human diseases.
+
+[My Tongji Webpage](https://life.tongji.edu.cn/c9/9a/c12618a248218/page.htm)
 
 **Research interests:**
 
-* The effect of epigenetic polymorphism in tumorigenesis and early development
-* Tumor early diagnosis by novel epigenetic feature discovery
-* Multi-omics data mining for molecular characteristics of complex diseases
+* Development of Novel Epigenetic Modification Detection Algorithms and Methods
+* Regulation of Cell Fate and Disease by Epigenetic Polymorphisms
+* Epigenetic Modification Large-language Models and Drug Discovery
