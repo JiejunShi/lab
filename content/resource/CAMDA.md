@@ -2,7 +2,7 @@
 widget: hero
 widget_id:
 headless: true
-weight: 20
+weight: 61
 title: CAMDA
 hero_media: CAMDA.png
 design:

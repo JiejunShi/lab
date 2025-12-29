@@ -2,7 +2,7 @@
 widget: hero
 widget_id:
 headless: true
-weight: 30
+weight: 62
 title: CHALM
 hero_media: CHALM.jpg
 design:

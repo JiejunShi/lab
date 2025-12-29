@@ -2,7 +2,7 @@
 widget: hero
 widget_id:
 headless: true
-weight: 40
+weight: 101
 title: PopCanyon
 hero_media: PopCanyon.jpg
 design:

@@ -2,7 +2,7 @@
 widget: hero
 widget_id:
 headless: true
-weight: 50
+weight: 102
 title: CORM
 hero_media: CORM.png
 design:

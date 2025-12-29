@@ -2,7 +2,7 @@
 widget: hero
 widget_id:
 headless: true
-weight: 20
+weight: 51
 title: NaRMBench
 hero_media: NaRMBench.png
 design:

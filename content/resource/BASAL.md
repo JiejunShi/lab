@@ -2,7 +2,7 @@
 widget: hero
 widget_id:
 headless: true
-weight: 20
+weight: 52
 title: BASAL
 hero_media: BASAL.png
 design:
