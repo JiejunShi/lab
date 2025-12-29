@@ -1,5 +1,5 @@
 ---
-title: Welcome Dr. Xiaoyu Li to give a talk at the Bioinformatics Club!
+title: Bioinformatics Club - Welcome Dr. Xiaoyu Li from Zhejiang University to give us a talk!
 date: 2025-12-26
 image:
   focal_point: top
