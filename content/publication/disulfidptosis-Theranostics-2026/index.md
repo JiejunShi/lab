@@ -17,8 +17,8 @@ author_notes:
 - "Equal contribution"
 
 categories: []
-date: '2026-1-1'
-lastmod: 2026-1-29T14:57:52+08:00
+date: '2026-01-01'
+lastmod: 2026-01-29T14:57:52+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-1-1T15:42:53.873718Z'
+publishDate: '2026-01-01T15:42:53.873718Z'
 publication_types:
 - '2'
 publication: '*Theranostics*'
