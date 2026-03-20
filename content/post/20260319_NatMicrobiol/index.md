@@ -4,6 +4,5 @@ date: 2026-03-19
 image:
   focal_point: top
 ---
-We have developed a benchmark platform for algorithms that detect RNA modifications using third-generation sequencing, **NaRMBench**, which is recently published on [*Nature Methods*, Dec 2025](https://www.nature.com/articles/s41592-025-02974-y) and provides guidelines for detecting various modifications.
-Congratulations to Tingting, Moping, Miao, and Faying!
-![alt](2025_NaRMBench.png)
+Working with Lanlan's group, we uncovered how weaning-associated microbiota and epigenetic remodeling jointly establish intestinal immune memory [*Nature Microbiology*, March 2026](https://www.nature.com/articles/s41564-026-02295-6).
+![alt](20260319_NatMicrobiol.png)
