@@ -24,7 +24,7 @@ design:
   columns: "1"
   color: white
   background:
-    image: 202508_Chengdu.jpg
+    image: 20260331.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
