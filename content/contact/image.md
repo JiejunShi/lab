@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: 640.webp
+    image: 20260331-1.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
