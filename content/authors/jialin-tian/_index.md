@@ -2,7 +2,7 @@
 title: Jialin Tian
 weight: 104
 role: 2024
-avatar_filename: avatar.jpg
+avatar_filename: #avatar.jpg
 organizations:
   - name: Tongji University
     url: ""
