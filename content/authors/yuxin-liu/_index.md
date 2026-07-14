@@ -23,7 +23,7 @@ education:
       year: 2022
 email: ""
 user_groups:
-  - Co-mentored Students
+  - Alumni
 highlight_name: true
 ---
 **Yuxin Liu (刘玉鑫)** is a co-mentored (with Prof. Jiamin Zhang) master's student at the School of Life Science and Technology in Tongji University. Her research interests include Epigenetics and Bioinformatics.
