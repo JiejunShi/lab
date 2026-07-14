@@ -2,7 +2,7 @@
 title: Leyi Yu
 weight: 103
 role: 2023
-avatar_filename: avatar.jpg
+avatar_filename: #avatar.jpg
 organizations:
   - name: Tongji University
     url: ""
