@@ -21,7 +21,7 @@ education:
       year: 2023
 email: ""
 user_groups:
-  - Master Students
+  - Alumni
 highlight_name: true
 ---
 **Ting-Ting Luo (罗婷婷)** received her bachelor’s degree in Bioinformatics from Nanjing Medical University in 2023.She joined JunLab at 2023. Her research focuses on RNA Modifications.
