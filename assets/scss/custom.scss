@@ -1,24 +1,44 @@
-/* News 板块标题 */
-.news-white .section-heading h1,
-.news-white .section-heading h2 {
-  color: #ffffff !important;
+/* 每条 News 的默认状态 */
+.news-white .media.stream-item,
+.news-white .stream-item,
+.news-white .view-list-item {
+  padding: 8px 12px;
+  margin: 0 -12px;
+  border-radius: 6px;
+  transition:
+    background-color 0.2s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
-.news-white .section-subheading,
-.news-white .section-heading p {
-  color: #ffffff !important;
+/* 鼠标悬停：整行变白 */
+.news-white .media.stream-item:hover,
+.news-white .stream-item:hover,
+.news-white .view-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+  transform: translateX(4px);
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* 每条 News 的文字和链接 */
-.news-white .article-title,
-.news-white .article-title a,
-.news-white .article-metadata,
-.news-white .article-metadata a,
-.news-white .article-style {
-  color: #ffffff !important;
+/* 悬停时标题改为深色 */
+.news-white .media.stream-item:hover .article-title,
+.news-white .media.stream-item:hover .article-title a,
+.news-white .stream-item:hover .article-title,
+.news-white .stream-item:hover .article-title a,
+.news-white .view-list-item:hover .article-title,
+.news-white .view-list-item:hover .article-title a {
+  color: #1f2937 !important;
 }
 
-/* 鼠标悬停 */
-.news-white .article-title a:hover {
-  color: rgb(255, 0, 0) !important;
+/* 悬停时日期、摘要等改为深灰色 */
+.news-white .media.stream-item:hover .article-metadata,
+.news-white .media.stream-item:hover .article-metadata a,
+.news-white .media.stream-item:hover .article-style,
+.news-white .stream-item:hover .article-metadata,
+.news-white .stream-item:hover .article-metadata a,
+.news-white .stream-item:hover .article-style,
+.news-white .view-list-item:hover .article-metadata,
+.news-white .view-list-item:hover .article-metadata a,
+.news-white .view-list-item:hover .article-style {
+  color: #4b5563 !important;
 }
