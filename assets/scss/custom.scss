@@ -1,3 +1,24 @@
+/* News 板块标题 */
+.news-white .section-heading h1,
+.news-white .section-heading h2 {
+  color: #ffffff !important;
+}
+
+.news-white .section-subheading,
+.news-white .section-heading p {
+  color: #ffffff !important;
+}
+
+/* 每条 News 的文字和链接 */
+.news-white .article-title,
+.news-white .article-title a,
+.news-white .article-metadata,
+.news-white .article-metadata a,
+.news-white .article-style {
+  color: #ffffff !important;
+}
+
+
 /* 每条 News 的默认状态 */
 .news-white .media.stream-item,
 .news-white .stream-item,
