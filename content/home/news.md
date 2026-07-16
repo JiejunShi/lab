@@ -23,13 +23,16 @@ design:
   view: 2
   columns: "1"
   color: white
+  
   background:
     image: 20260331.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: false
+  
+  text_color_light: true
+
   spacing:
     padding: ["20px", "80px", "20px", "0"]
 
