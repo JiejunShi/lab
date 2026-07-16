@@ -1,5 +1,15 @@
-/* 首页 Latest News 板块 */
-.news-white,
+/* News 板块标题 */
+.news-white .section-heading h1,
+.news-white .section-heading h2 {
+  color: #ffffff !important;
+}
+
+.news-white .section-subheading,
+.news-white .section-heading p {
+  color: #ffffff !important;
+}
+
+/* 每条 News 的文字和链接 */
 .news-white .article-title,
 .news-white .article-title a,
 .news-white .article-metadata,
@@ -8,7 +18,7 @@
   color: #ffffff !important;
 }
 
-/* 鼠标悬停时稍微变暗 */
+/* 鼠标悬停 */
 .news-white .article-title a:hover {
   color: rgba(255, 255, 255, 0.8) !important;
 }
