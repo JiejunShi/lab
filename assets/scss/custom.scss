@@ -1,0 +1,14 @@
+/* 首页 Latest News 板块 */
+.news-white,
+.news-white .article-title,
+.news-white .article-title a,
+.news-white .article-metadata,
+.news-white .article-metadata a,
+.news-white .article-style {
+  color: #ffffff !important;
+}
+
+/* 鼠标悬停时稍微变暗 */
+.news-white .article-title a:hover {
+  color: rgba(255, 255, 255, 0.8) !important;
+}

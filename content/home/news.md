@@ -31,9 +31,11 @@ design:
     image_position: center
     image_size: cover
   
-  text_color_light: false
+  text_color_light: true
 
   spacing:
     padding: ["20px", "80px", "20px", "0"]
 
+advanced:
+  css_class: news-white
 ---
