@@ -64,27 +64,18 @@
   color: #4b5563 !important;
 }
 
-/* =========================================================
-   Publication author notes:
-   将 Equal contribution 的黑色圆圈 i 改为加粗星号 *
-   ========================================================= */
-
+/* 共同一作：用上标加粗星号替代圆圈 i */
 .author-notes[title="Equal contribution"]::before,
 .author-notes[data-original-title="Equal contribution"]::before {
   content: "*" !important;
-
-  /* 取消 Font Awesome 图标字体 */
-  font-family: inherit !important;
+  font-family: Arial, Helvetica, sans-serif !important;
   font-style: normal !important;
-  font-weight: 700 !important;
-
-  /* 星号大小和位置 */
-  font-size: 1em !important;
+  font-weight: 900 !important;
+  font-size: 0.9em !important;
   line-height: 1 !important;
-  vertical-align: super;
-  position: relative;
-  top: -0.05em;
 
-  /* 作者姓名与星号之间的距离 */
+  display: inline-block;
+  position: relative;
+  top: -0.35em;
   margin-left: 0.08em;
 }
