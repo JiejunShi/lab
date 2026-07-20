@@ -18,8 +18,8 @@ authors:
 - Cizhong Jiang
 - Jianmin Fang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags:
 - Drug Resistance
 - Gene Expression Profiling

@@ -11,8 +11,8 @@ authors:
 - Wei Li
 - Hong Wen
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags:
 - Bone Neoplasms
 - Brain Neoplasms

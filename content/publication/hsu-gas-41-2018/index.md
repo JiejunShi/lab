@@ -18,9 +18,9 @@ authors:
 - Haitao Li
 - Xiaobing Shi
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- "First author"
 tags: []
 categories: []
 date: '2018-01-01'

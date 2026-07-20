@@ -18,10 +18,10 @@ authors:
 - Wei Li
 - Xiaobing Shi
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- "First author"
+- "First author"
 tags:
 - Acetylation
 - Carcinoma

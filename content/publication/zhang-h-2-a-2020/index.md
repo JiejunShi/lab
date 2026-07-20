@@ -20,8 +20,8 @@ authors:
 - Wei Li
 - Boyi Gan
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags:
 - AMP-Activated Protein Kinase Kinases
 - Cell Cycle Proteins

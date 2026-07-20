@@ -11,8 +11,8 @@ authors:
 - Yanhua Du
 - Cizhong Jiang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags:
 - Chromatin Assembly and Disassembly
 - Databases

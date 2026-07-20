@@ -16,8 +16,8 @@ authors:
 - DongJun Liu
 - ' others'
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags: []
 categories: []
 date: '2011-01-01'

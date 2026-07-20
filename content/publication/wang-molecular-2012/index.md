@@ -17,8 +17,8 @@ authors:
 - ZG Wang
 - DJ Liu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags: []
 categories: []
 date: '2012-01-01'

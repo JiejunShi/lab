@@ -17,8 +17,8 @@ authors:
 - Jianzhong Su
 - Wei Li
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags:
 - Chromatin Immunoprecipitation Sequencing
 - Deep Learning

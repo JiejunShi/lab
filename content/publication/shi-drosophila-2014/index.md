@@ -15,8 +15,8 @@ authors:
 - Xiaobai Zhang
 - Cizhong Jiang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
 tags:
 - AT Rich Sequence
 - Binding Sites

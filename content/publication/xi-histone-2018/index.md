@@ -27,11 +27,11 @@ authors:
 - Wei Li
 - Sharon Y. R. Dent
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- "First author"
+- "First author"
+- "First author"
 tags:
 - Breast cancer subtypes
 - Breast Neoplasms
