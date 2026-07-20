@@ -95,20 +95,13 @@
 }
 
 /* =========================================================
-   Publication journal name
-   期刊名称同时使用斜体和粗体
+   Publication 期刊名称：粗斜体
    ========================================================= */
 
-/* Publication 列表页 */
-.pub-list-item .article-metadata em,
 .pub-list-item .pub-publication,
-.pub-list-item .pub-publication em {
-  font-style: italic !important;
-  font-weight: 700 !important;
-}
-
-/* 单篇 Publication 详情页 */
-.article-container .article-metadata em,
+.pub-list-item .pub-publication em,
+.pub-list-item .article-metadata em,
+.pub-list-item .article-style em,
 .article-container .pub-publication,
 .article-container .pub-publication em {
   font-style: italic !important;
