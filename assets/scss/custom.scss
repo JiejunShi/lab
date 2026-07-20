@@ -89,7 +89,7 @@
 }
 
 /* 通讯作者 */
-.author-notes[title="Corresponding author"]::before,
-.author-notes[data-original-title="Corresponding author"]::before {
+.author-notes[title="Corresponding"]::before,
+.author-notes[data-original-title="Corresponding"]::before {
   content: "#" !important;
 }
