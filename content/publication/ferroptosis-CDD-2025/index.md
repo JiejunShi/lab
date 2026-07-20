@@ -8,24 +8,16 @@ summary: ''
 authors:
 - Kexin Fan
 - Shuting Zhou
-- Yakun Ren
-- Jingwen Xiong
-- Hua Wang
-- Yaxin Fu
-- Yuhan Chen
-- Bobo Wang
-- Kun Fan
-- Min Gao
-- Tingli Guo
-- Xiaofeng Wei
-- Lianying Jiao
 - Jiejun Shi
 - Chenguang Ding
 - Yilei Zhang
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- "Corresponding"
+- "Corresponding"
+- "Corresponding"
 
 categories: []
 date: '2025-11-28'

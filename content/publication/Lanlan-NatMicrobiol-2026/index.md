@@ -20,7 +20,18 @@ authors:
 - Lanlan Shen
 
 author_notes:
-- "Equal contribution"
+- "First author"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding"
+- "Corresponding"
 
 categories: []
 date: '2026-03-19'

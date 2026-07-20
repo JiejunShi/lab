@@ -8,32 +8,19 @@ authors:
 - Heng Wang
 - Ang Wu
 - Meng-Chen Yang
-- Di Zhou
-- Xiyang Chen
-- Zhifei Shi
-- Yiqun Zhang
-- Yuxin Liu
-- Kai Chen
-- Xiaosong Wang
-- Xiao-Fang Cheng
-- Baodan He
-- Yutao Fu
-- Lan Kang
-- Yujun Hou
-- Kun Chen
-- Shan Bian
-- Juan Tang
-- Jianhuang Xue
-- Chenfei Wang
 - Xiaoyu Liu
 - Jiejun Shi
 - Shaorong Gao
 - Jia-Min Zhang
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- "First author"
+- "Corresponding"
+- "Corresponding"
+- "Corresponding"
+- "Corresponding"
 
 categories: []
 date: '2025-08-11'

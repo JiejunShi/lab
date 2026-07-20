@@ -9,24 +9,17 @@ authors:
 - Zi-Xin Wang
 - Faying Chen
 - Bao-Dan He
-- Fan-Chen Wang
-- Jiaxue Cha
-- Yu Song
-- Wei-Ying Meng
-- Wan-Yue Zou
-- Yu-Tao Fu
-- Shu-Xia Sun
-- Zhi-Yan Sun
-- Hao-Ming Jiang
-- Ke-Yao Zhao
 - Yujun Hou
 - Jiejun Shi
 - Jian-Huang Xue
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- "First author"
+- "Corresponding"
+- "Corresponding"
+- "Corresponding"
 
 categories: []
 date: '2025-07-16'

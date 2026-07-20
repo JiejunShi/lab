@@ -17,11 +17,14 @@ authors:
 - Xinxing Li
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- "First author"
+- "First author"
+- "First author"
+- ""
+- "Corresponding"
+- "Corresponding"
 
 categories: []
 date: '2025-11-07'

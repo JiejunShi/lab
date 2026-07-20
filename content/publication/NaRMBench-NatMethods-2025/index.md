@@ -13,8 +13,11 @@ authors:
 - Jiejun Shi
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "First author"
+- ""
+- ""
+- "Corresponding"
 
 categories: []
 date: '2025-12-12'
