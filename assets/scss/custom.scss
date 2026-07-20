@@ -63,3 +63,28 @@
 .news-white .view-list-item:hover .article-style {
   color: #4b5563 !important;
 }
+
+/* =========================================================
+   Publication author notes:
+   将 Equal contribution 的黑色圆圈 i 改为加粗星号 *
+   ========================================================= */
+
+.author-notes[title="Equal contribution"]::before,
+.author-notes[data-original-title="Equal contribution"]::before {
+  content: "*" !important;
+
+  /* 取消 Font Awesome 图标字体 */
+  font-family: inherit !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+
+  /* 星号大小和位置 */
+  font-size: 1em !important;
+  line-height: 1 !important;
+  vertical-align: super;
+  position: relative;
+  top: -0.05em;
+
+  /* 作者姓名与星号之间的距离 */
+  margin-left: 0.08em;
+}
