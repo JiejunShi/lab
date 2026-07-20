@@ -64,29 +64,32 @@
   color: #4b5563 !important;
 }
 
-/* =========================================================
-   Publication author notes:
-   将 Equal contribution 的黑色圆圈 i 改为粗体 *
-   ========================================================= */
-
-.author-notes[title="Equal contribution"]::before,
-.author-notes[data-original-title="Equal contribution"]::before {
-  content: "*" !important;
-
-  /* 使用普通字体，而不是 Font Awesome */
-  font-family: inherit !important;
+/* 共同一作和通讯作者符号的公共样式 */
+.author-notes[title="First author"]::before,
+.author-notes[data-original-title="First author"]::before,
+.author-notes[title="Corresponding"]::before,
+.author-notes[data-original-title="Corresponding"]::before {
+  font-family: Arial, Helvetica, sans-serif !important;
   font-style: normal !important;
-  font-weight: 700 !important;
-
-  /* 与正文一致，不使用上标 */
+  font-weight: 900 !important;
   font-size: 1em !important;
   line-height: 1 !important;
   vertical-align: baseline !important;
 
-  /* 星号与作者名之间留一点距离 */
-  margin-left: 0.08em;
-
-  /* 清除可能的定位 */
+  display: inline !important;
   position: static !important;
   top: auto !important;
+  margin-left: 0.02em !important;
+}
+
+/* 共同一作 */
+.author-notes[title="First author"]::before,
+.author-notes[data-original-title="First author"]::before {
+  content: "*" !important;
+}
+
+/* 通讯作者 */
+.author-notes[title="Corresponding author"]::before,
+.author-notes[data-original-title="Corresponding author"]::before {
+  content: "#" !important;
 }
